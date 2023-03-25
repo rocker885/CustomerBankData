@@ -1,0 +1,19 @@
+git notes
+==================
+
+C:\Users\zahid\Projects\SF_Devops\Source>git init
+
+C:\Users\zahid\Projects\SF_Devops\Source>git status
+
+C:\Users\zahid\Projects\SF_Devops\Source>git add
+
+C:\Users\zahid\Projects\SF_Devops\Source>git commit CustomerBankData.csv -m "First Version"
+
+C:\Users\zahid\Projects\SF_Devops\Source>git log
+
+C:\Users\zahid\Projects\SF_Devops\Source>git remote add origin https://github.com/rocker885/CustomerBankData.git
+
+C:\Users\zahid\Projects\SF_Devops\Source>git push -u origin master
+
+C:\Users\zahid\Projects\SF_Devops\Source>git push --set-upstream origin master
+
